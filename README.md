@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oybek Narzikulov</h1>
 <h3 align="center">I'm a junior iOS developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oybeknarzikulov-1999&label=Profile%20views&color=0e75b6&style=flat" alt="oybeknarzikulov-1999" /> </p>
-
 - 💬 Ask me about **Swift/Firebase**
 
 - 📫 How to reach me **https://t.me/Oybekk23**
