@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Oybek Narzikulov</h1>
-<h3 align="center">I'm a junior iOS developer</h3>
+<h1 align="center">Hi 🤘, I'm Oybek Narzikulov</h1>
+<h3 align="center">Junior iOS developer</h3>
 
 - 💬 Ask me about: **Mobile Development/Swift**
 
