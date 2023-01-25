@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Oybek Narzikulov</h1>
 <h3 align="center">I'm a junior iOS developer</h3>
 
-- 💬 Ask me about **Mobile Development/Swift**
+- 💬 Ask me about: **Mobile Development/Swift**
 
-- 📫 How to reach me **https://t.me/Oybekk23**
+- 📫 How to reach me: **https://t.me/Oybekk23**
 
 <p align="left"></p>
 
