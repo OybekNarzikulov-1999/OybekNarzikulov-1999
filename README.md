@@ -21,8 +21,4 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oybeknarzikulov-1999&show_icons=true&locale=en&layout=compact" alt="oybeknarzikulov-1999" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oybeknarzikulov-1999&show_icons=true&locale=en" alt="oybeknarzikulov-1999" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oybeknarzikulov-1999&" alt="oybeknarzikulov-1999" /></p>
