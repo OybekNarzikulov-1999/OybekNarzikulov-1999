@@ -5,6 +5,8 @@
 
 - 📫 How to reach me: **https://t.me/Oybekk23**
 
+- 📩 My email: **oybeknarzikulov1999@gmail.com**
+
 <p align="left"></p>
 
 <h3 align="left">Languages and Tools:</h3>
