@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Oybek Narzikulov</h1>
-<h3 align="center">Middle iOS developer</h3>
 
 - 💬 Ask me about: **Mobile Development/Swift**
 
